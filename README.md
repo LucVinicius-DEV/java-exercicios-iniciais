@@ -9,3 +9,11 @@ Este repositório contém os exercícios práticos que estou desenvolvendo duran
 - Cálculo da área de um círculo  
 - Calculadora de IMC  
 - Conversor de temperatura
+## Soma Simples
+
+Este programa lê dois números inteiros digitados pelo usuário e exibe a soma entre eles.
+
+### Exemplo de uso:
+
+Entrada:5 8 
+Saída: SOMA = 13
