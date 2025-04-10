@@ -7,8 +7,8 @@ Este repositório contém os exercícios práticos que estou desenvolvendo duran
 **Semana 1**  
 - Soma simples  
 - Cálculo da área de um círculo  
-- Calculadora de IMC  
 - Conversor de temperatura
+- Calculadora de IMC  
 
 ## Exercícios
 
@@ -20,6 +20,9 @@ Calcula a área de um círculo com base no raio informado pelo usuário.
 
 ### 3. Conversor de Temperatura
 Converte uma temperatura em Celsius para Fahrenheit.
+
+### 4. Calculadora de IMC
+Recebe o peso e altura do usuário e retorna o índice de massa corporal (IMC).
 
 ---
 
