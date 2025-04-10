@@ -1,4 +1,4 @@
-# java-ezercicios-iniciais
+# java-exercicios-iniciais
 Exercícios de lógica e fundamentos em Java. Projetos feitos durante minha jornada de aprendizado.
 # Java – Exercícios Iniciais
 
