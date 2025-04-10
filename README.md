@@ -9,11 +9,18 @@ Este repositório contém os exercícios práticos que estou desenvolvendo duran
 - Cálculo da área de um círculo  
 - Calculadora de IMC  
 - Conversor de temperatura
-## Soma Simples
 
-Este programa lê dois números inteiros digitados pelo usuário e exibe a soma entre eles.
+## Exercícios
 
-### Exemplo de uso:
+### 1. Soma Simples
+Recebe dois números inteiros do usuário e exibe a soma entre eles.
 
-Entrada:5 8 
-Saída: SOMA = 13
+### 2. Área do Círculo
+Calcula a área de um círculo com base no raio informado pelo usuário.
+
+### 3. Conversor de Temperatura
+Converte uma temperatura em Celsius para Fahrenheit.
+
+---
+
+Mais exercícios virão à medida que a jornada continua!
