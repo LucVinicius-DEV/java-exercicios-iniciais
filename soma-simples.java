@@ -1,6 +1,9 @@
+
+// Este programa lê dois números inteiros e exibe a soma entre eles.
+
 import java.util.Scanner;
 
-public class Main {
+public class SomaSimples {
   public static void main(String[] args) {
 
     Scanner sc = new Scanner(System.in);
