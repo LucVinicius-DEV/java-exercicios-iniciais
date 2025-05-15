@@ -8,7 +8,6 @@ Repositório contendo uma série de pequenos exercícios desenvolvidos em Java, 
 
 ## 📚 Projetos disponíveis
 
-- [SAUDAÇÃO PADRÃO](./src) — Exibe uma mensagem de boas-vindas ao usuário.
 - [SOMA BÁSICA](./src) — Recebe dois números inteiros e calcula sua soma.
 - [MULTIPLICAÇÃO COM ENTRADA](./src) — Realiza o produto de dois valores informados.
 - [CÁLCULO DE DIFERENÇA](./src) — Exibe a diferença entre dois produtos.
